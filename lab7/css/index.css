@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: darkred;
+    padding: 25px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: white;
+    border: solid 1px #333333;
+    height: 80vh; color: darkred;
+    margin-left: 80px
+}
+
+h1, h2, h3 {
+    font-family: "Georgia", monospace;
+}
+
+img {
+    float: right;
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
