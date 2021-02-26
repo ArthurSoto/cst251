@@ -1,0 +1,52 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: navy;
+    padding: 25px;
+    font-size: 100%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: white;
+    border: solid 1px #333333;
+    height: 80vh; color: red;
+    margin-left: 80px
+}
+
+p1#red-one {
+    color: navy;
+    font-family: "Varsity", monospace;
+}
+
+p2#red-two {
+    color: darkred;
+}
+
+p3#red-three {
+    color: black;
+    font-family: "Times New Roman", monospace;
+}
+
+h1, h2, h3 {
+    font-family: "Georgia", monospace;
+}
+
+img {
+    float: right;
+    width: 400px;
+    height: auto;
+}
+
+#hover:hover{
+    height: 200px;
+    width: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: maroon;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
