@@ -1,0 +1,40 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: lightgrey;
+    padding: 25px;
+    font-size: 100%;
+}
+
+div#content {
+    padding: 50px;
+    background-color: saddlebrown;
+    border: solid 7px #FFFFFF;
+    height: 80vh; color: gold;
+    margin-left: 80px;
+    margin-right: 80px
+}
+
+img {
+    border: solid 7px #FFFFFF;
+}
+
+h1#goldone {
+    border: solid 2px #FFFFFF; width: 12%;
+    background-color: white;
+    color: #c33395;
+    font-family: "Brush Script MT", monospace;
+}
+
+h2#goldtwo {
+    border: solid 2px #FFFFFF; width: 7%;
+    background-color: white;
+    color: #c33395;
+    font-family: "Brush Script MT", monospace;
+}
+
+h3#goldthree {
+    border: solid 2px #FFFFFF; width: 5%;
+    background-color: white;
+    color: #c33395;
+    font-family: "Brush Script MT", monospace;
+}
