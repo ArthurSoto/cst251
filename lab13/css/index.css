@@ -1,0 +1,37 @@
+div#content {
+    background-color: #454486;
+    color: pink;
+    font-family: 'Secular One', sans-serif;
+}
+
+body {
+    background-color: #454486;
+    font-size: 125%;
+  }
+
+nav a {
+    color: #448bc3;
+    font-family: 'Secular One', sans-serif;
+}
+
+h1#phone1 {
+    color: white;
+    font-family: 'Secular One', sans-serif;
+}
+
+h2#phone2 {
+    color: white;
+    font-family: 'Secular One', sans-serif;
+}
+
+h3#phone3 {
+    color: white;
+    font-family: 'Secular One', sans-serif;
+}
+
+iframe#fake {
+    width: 800px;
+    height: 500px;
+    resize: both;
+    overflow: hidden;
+}
