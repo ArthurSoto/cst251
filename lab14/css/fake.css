@@ -1,0 +1,46 @@
+h1#neobi {
+  text-align: center;
+  color: white;
+  font-family: 'Oranienbaum', serif;
+  font-size: 45px;
+  margin-top: -4%;
+}
+
+div#content {
+}
+
+nav a {
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    text-decoration: none;
+    float: right;
+}
+
+body {
+    background-color: red;
+    font-size: 125%
+}
+
+.center {
+  width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 400px;
+  margin-top: 13%;
+}
+
+.right {
+  position: absolute;
+  top: 50%;
+  left: 63%;
+  color: white;
+  margin-top: 6%;
+  font-size: 60px;
+  font-family: 'Cousine', monospace;
+}
