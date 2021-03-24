@@ -1,0 +1,31 @@
+div#content {
+    color: black;
+    background-color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    box-shadow: 12px 15px 12px;
+    background-image: linear-gradient(white, grey);
+    border-radius: 15px;
+    transform: skewY(1deg);
+    font-size: 150%;
+    font-family: 'Russo One', sans-serif;
+}
+
+nav a {
+    color: white;
+}
+
+h1#phone1 {
+    color: #ffd800;
+    text-shadow: 5px 1px 4px black;
+}
+
+h2#phone2 {
+    color: #ffd800;
+    text-shadow: 5px 1px 4px black;
+}
+
+h3#phone3 {
+    color: #ffd800;
+    text-shadow: 5px 1px 4px black
+}
