@@ -1,0 +1,58 @@
+div#content {
+    color: blue;
+    background-color: white;
+    margin-left: 3%;
+    margin-right: 66%;
+    box-shadow: 5px 7px 5px blue;
+    border-radius: 5px;
+    font-size: 90%;
+    font-family: 'Racing Sans One', cursive;
+}
+
+div#content2 {
+    color: blue;
+    background-color: white;
+    margin-left: 66%;
+    margin-right: 3%;
+    box-shadow: 5px 7px 5px red;
+    border-radius: 5px;
+    font-size: 150%;
+    font-family: 'Racing Sans One', cursive;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    font-size: 120%;
+    font-family: 'Racing Sans One', cursive;
+
+}
+
+
+.basket-ball-shadow {
+    background: radial-gradient(50% 50%, #000 0%, transparent);
+    height: 40px;
+    width: 60px;
+    left: 50.7%;
+    transform: translateX(-50%)
+  }
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  margin-top: -500px;
+}
+
+h1, h2, h3, h4 {
+  color: white;
+  animation-name: color;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes color {
+  from {color:white}
+  to {color:red}
+}
