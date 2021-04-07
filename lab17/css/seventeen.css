@@ -1,0 +1,35 @@
+nav {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: solid red 5px;
+    background-color: pink;
+    color: white;
+    font-family: 'Londrina Solid', cursive;
+    text-align: center;
+}
+
+aside {
+    float: right;
+    border: solid red 5px;
+    font-family: 'Londrina Solid', cursive;
+    background-color: pink;
+    font-size: 250%;
+    margin-top: -200px;
+}
+
+section {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: pink 5px;
+    text-align: center;
+    font-family: 'Londrina Solid', cursive;
+    color: red;
+
+}
+
+header {
+    float: left;
+    margin-top: 17%;
+    font-family: 'Londrina Solid', cursive;
+    color: red;
+}

@@ -1,0 +1,30 @@
+nav {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: solid pink 5px;
+
+}
+
+aside {
+    float: right;
+    border: solid pink 5px;
+}
+
+section {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: pink 5px;
+    text-align: center;
+}
+
+header {
+    float: left;
+    margin-top: 17%;
+}
+
+footer {
+    float: right;
+    margin-left: 23%;
+    margin-right: 39%;
+    border: solid pink 5px;
+}
