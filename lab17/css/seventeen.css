@@ -9,7 +9,7 @@ nav {
 }
 
 aside {
-    float: right;
+    float: left;
     border: solid red 5px;
     font-family: 'Londrina Solid', cursive;
     background-color: pink;
@@ -28,7 +28,7 @@ section {
 }
 
 header {
-    float: left;
+    float: right;
     margin-top: 17%;
     font-family: 'Londrina Solid', cursive;
     color: red;

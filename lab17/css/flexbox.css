@@ -1,13 +1,20 @@
 nav {
     margin-left: 33%;
     margin-right: 33%;
-    border: solid pink 5px;
-
+    border: solid red 5px;
+    background-color: pink;
+    color: white;
+    font-family: 'Londrina Solid', cursive;
+    text-align: center;
 }
 
 aside {
-    float: right;
-    border: solid pink 5px;
+    float: left;
+    border: solid red 5px;
+    font-family: 'Londrina Solid', cursive;
+    background-color: pink;
+    font-size: 250%;
+    margin-top: -200px;
 }
 
 section {
@@ -15,16 +22,14 @@ section {
     margin-right: 33%;
     border: pink 5px;
     text-align: center;
+    font-family: 'Londrina Solid', cursive;
+    color: red;
+
 }
 
 header {
-    float: left;
-    margin-top: 17%;
-}
-
-footer {
     float: right;
-    margin-left: 23%;
-    margin-right: 39%;
-    border: solid pink 5px;
+    margin-top: 17%;
+    font-family: 'Londrina Solid', cursive;
+    color: red;
 }
