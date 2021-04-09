@@ -1,0 +1,57 @@
+nav {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: solid black 5px;
+    background-color: yellow;
+    color: white;
+    font-family: 'Londrina Solid', cursive;
+    text-align: center;
+}
+
+aside {
+    float: left;
+    border: solid black 5px;
+    font-family: 'Londrina Solid', cursive;
+    background-color: yellow;
+    font-size: 250%;
+    margin-top: -200px;
+}
+
+section {
+    margin-left: 33%;
+    margin-right: 33%;
+    border: black 5px;
+    text-align: center;
+    font-family: 'Londrina Solid', cursive;
+    color: yellow;
+
+}
+
+header {
+    float: right;
+    margin-top: 17%;
+    font-family: 'Londrina Solid', cursive;
+    color: black;
+    border: yellow 5px;
+    background-color: yellow;
+}
+
+img {
+  border: 5px solid yellow;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.left {
+  float: left;
+  width: 100%;
+}
+
+@media screen and (max-width:600px) {
+  .left , .main, .right {
+    width:100%;
+  }
+}
